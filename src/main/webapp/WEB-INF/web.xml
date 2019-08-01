@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+                      http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1" metadata-complete="true">
+
+  <display-name>filesystem</display-name>
+
+    <servlet>
+        <servlet-name>FileUploadAction</servlet-name>
+        <servlet-class>com.mm.servlet.FileUploadAction</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>FileUploadAction</servlet-name>
+        <url-pattern>/fileupload</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>FileOperationAction</servlet-name>
+        <servlet-class>com.mm.servlet.FileOperationAction</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>FileOperationAction</servlet-name>
+        <url-pattern>/fileoperation</url-pattern>
+    </servlet-mapping>
+</web-app>

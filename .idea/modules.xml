@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/IDE/cource/cource.iml" filepath="F:/IDE/cource/cource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filesystem.iml" filepath="$PROJECT_DIR$/filesystem.iml" />
+      <module fileurl="file://E:/log-parse-parent/log-analysis/log-analysis.iml" filepath="E:/log-parse-parent/log-analysis/log-analysis.iml" />
+      <module fileurl="file://E:/log-parse-parent/log-parse-parent.iml" filepath="E:/log-parse-parent/log-parse-parent.iml" />
+      <module fileurl="file://E:/log-parse-parent/log-web/log-web.iml" filepath="E:/log-parse-parent/log-web/log-web.iml" />
+      <module fileurl="file://D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-framework-common/target/maven-archiver/maven-archiver (1).iml" filepath="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-framework-common/target/maven-archiver/maven-archiver (1).iml" />
+      <module fileurl="file://D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-framework-model/target/maven-archiver/maven-archiver (2).iml" filepath="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-framework-model/target/maven-archiver/maven-archiver (2).iml" />
+      <module fileurl="file://D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-framework-utils/target/maven-archiver/maven-archiver (3).iml" filepath="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-framework-utils/target/maven-archiver/maven-archiver (3).iml" />
+      <module fileurl="file://G:/store_v5/store_v5.iml" filepath="G:/store_v5/store_v5.iml" />
+      <module fileurl="file://D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-framework-common/xc-framework-common.iml" filepath="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-framework-common/xc-framework-common.iml" />
+      <module fileurl="file://D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-base-filesystem/xc-service-base-filesystem.iml" filepath="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-base-filesystem/xc-service-base-filesystem.iml" />
+      <module fileurl="file://D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-manage-cms-client/xc-service-manage-cms-client.iml" filepath="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-manage-cms-client/xc-service-manage-cms-client.iml" />
+      <module fileurl="file://D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-manage-media/xc-service-manage-media.iml" filepath="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-manage-media/xc-service-manage-media.iml" />
+      <module fileurl="file://D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-manage-order/xc-service-manage-order.iml" filepath="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-manage-order/xc-service-manage-order.iml" />
+      <module fileurl="file://D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-search/xc-service-search.iml" filepath="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-search/xc-service-search.iml" />
+      <module fileurl="file://D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-ucenter-auth/xc-service-ucenter-auth.iml" filepath="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-ucenter-auth/xc-service-ucenter-auth.iml" />
+    </modules>
+  </component>
+</project>

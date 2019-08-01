@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="log-web:war">
+    <output-path>E:/log-parse-parent/log-web/target</output-path>
+    <root id="archive" name="log-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="log-web:war exploded" />
+    </root>
+  </artifact>
+</component>

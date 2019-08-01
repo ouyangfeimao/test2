@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://E:/log-parse-parent/log-web" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://G:/log-parse-parent/log-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="G:/log-parse-parent/pom.xml" />
+        <option value="E:/log-parse-parent/pom.xml" />
+        <option value="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-search/pom.xml" />
+        <option value="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-framework-model/target/maven-archiver/pom.properties" />
+        <option value="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-framework-utils/target/maven-archiver/pom.properties" />
+        <option value="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-framework-common/target/maven-archiver/pom.properties" />
+        <option value="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-framework-common/pom.xml" />
+        <option value="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-manage-media/pom.xml" />
+        <option value="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-manage-order/pom.xml" />
+        <option value="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-ucenter-auth/pom.xml" />
+        <option value="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-base-filesystem/pom.xml" />
+        <option value="D:/学成在线项目/day19 分布式事务/代码/xcEduService01/xc-service-manage-cms-client/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="G:/log-parse-parent/log-analysis/pom.xml" />
+        <option value="G:/log-parse-parent/log-web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
