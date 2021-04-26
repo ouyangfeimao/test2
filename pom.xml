@@ -29,7 +29,7 @@
         <hadoop.version>2.6.0-cdh5.14.0</hadoop.version>
         <hadoop.client.version>2.6.0-mr1-cdh5.14.0</hadoop.client.version>
         <fileupload.version>1.4</fileupload.version>
-        <io.version>2.6</io.version>
+        <io.version>2.7</io.version>
         <servlet.version>3.0.1</servlet.version>
         <jsp.version>2.1</jsp.version>
         <jstl.version>1.2</jstl.version>
